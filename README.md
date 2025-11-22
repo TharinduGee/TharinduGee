@@ -31,7 +31,7 @@ Explore more in all [repositories](https://github.com/TharinduGee?tab=repositori
 ![Streak](https://streak-stats.vercel.app?user=TharinduGee&theme=radical&hide_border=true)
 
 ### 🏆 Achievements
-[![Trophies](https://github-profile-trophy.vercel.app/?username=TharinduGee&theme=onedark&row=1&column=6&margin-w=6&margin-h=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=TharinduGee&theme=onedark&row=1&column=8&margin-w=6&margin-h=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🗺️ Contribution Graphs
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TharinduGee&theme=github-compact&hide_border=true&area=true&color=0ea5e9&line=22c55e&point=f59e0b)
