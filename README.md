@@ -26,9 +26,10 @@ Below are current focus/org repositories (update as needed):
 Explore more in all [repositories](https://github.com/TharinduGee?tab=repositories). Provide specific repo slugs if you’d like finer entries.
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TharinduGee&show_icons=true&theme=radical&cache_seconds=1800)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TharinduGee&layout=compact&theme=radical&cache_seconds=1800)
-![Streak](https://streak-stats.vercel.app?user=TharinduGee&theme=radical&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TharinduGee&theme=radical)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TharinduGee&theme=radical)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TharinduGee&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=TharinduGee&theme=radical&hide_border=true)
 
 ### 🏆 Achievements
 [![Trophies](https://github-profile-trophy.vercel.app/?username=TharinduGee&theme=onedark&row=1&column=8&margin-w=6&margin-h=6&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
